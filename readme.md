@@ -3,3 +3,8 @@ I - Prediction de maison à Seattle :
 * Appui sur le notebook* ci dessus pour voir mon premier projet de prédiction avec un modèle de Régression linéaire
 
 *(format du fichier .ipynb)
+
+--------------------------------------------------------------
+
+- Jeu de donnée sur Kaggle :
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
