@@ -5,7 +5,7 @@ I - Prediction de maison à Seattle :
 
 Dans ce projet, je suis chargé de développer un algorithme qui pourra prédire le prix d'une maison en fonction de ces paramètres ( comme la surface en m2, le nombre de chambre etc..)
 
-J'ai éffectué une analyse éxploratoire de mes données, puis je les ai préparé afin de l'intégrer à mon modèle. 
+J'ai éffectué une analyse éxploratoire de ces données, puis je les ai préparé avant de les intégrer à mon modèle. 
 Je l'ai ensuite évaluer via différentes metrics et j'ai explorer les coefficiants de mes features dans la prédiction. 
 
 
